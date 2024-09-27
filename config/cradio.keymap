@@ -67,7 +67,7 @@
             bindings = <
                 //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
                 //│          │          │          │          │          │   │  HOME    │PAGE DOWN │ PAGE UP  │  END     │          │
-                &trans     &trans     &trans     &trans    &trans          &kp HOME   &PG_DN    &kp PG_UP   &kp END   &trans
+                &trans     &trans     &trans     &trans    &trans          &kp HOME   &kp PG_DN    &kp PG_UP   &kp END   &trans
                 //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
                 //│          │  CAPS    │ PAUSE    │PRINT SCRN│          │   │  <-      │  v       │  ^       │  ->      │          │
                 &trans &kp C_CA_BACK &kp C_AC_REFRESH &kp C_AC_FORWARD &trans  &kp LEFT  &kp DOWN  &kp UP     &kp RIGHT   &trans
@@ -118,7 +118,7 @@
             bindings = <
                 //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
                 //│  ~       │  #       │  +       │  %       │  ?       │   │  ^       │  {       │  $       │  }       │  `       │
-                &kp TILDE  &kp HASH   &kp PLUS   &kp PRCNT   &QMARK        &kp CARET  &kp LBRC   &kp DLLR   &kp RBRC  &kp GRAVE
+                &kp TILDE  &kp HASH   &kp PLUS   &kp PRCNT   &kp QMARK        &kp CARET  &kp LBRC   &kp DLLR   &kp RBRC  &kp GRAVE
                 //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
                 //│  \       │  <       │  -       │  >       │  &       │   │  /       │  (       │  =       │  )       │  |       │
                 &kp BSLH   &kp LT    &kp MINUS   &kp GT     &kp AMPS       &kp FLSH  &kp LPAR   &kp EQUAL  &kp RPAR   &kp PIPE
