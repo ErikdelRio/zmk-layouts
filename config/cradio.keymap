@@ -90,7 +90,7 @@
                 &bootloader  &trans    &kp EQUAL  &kp DOT    &trans         &kp PLUS   &kp N4     &kp N5      &kp N6    &kp MINUS
                 //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
                 //│          │          │          │          │          │   │ SPACE    │  1       │  2       │  3       │          │
-                trans     &trans     &trans     &trans     &trans        &kp SPACE    &kp N1    &kp N2      &kp N3      &trans
+                &trans     &trans     &trans     &trans     &trans        &kp SPACE    &kp N1    &kp N2      &kp N3      &trans
                 //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                 &trans     &trans       &kp ENTER    &kp N0
                 //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
