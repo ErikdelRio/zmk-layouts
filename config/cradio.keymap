@@ -107,7 +107,7 @@
                 &bt BT_CLR  &kp CAPS &kp PAUSE_BREAK  &kp PSCRN &kp C_BRI_UP     &kp F11    &kp F4     &kp F5     &kp F6     &trans
                 //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
                 //│          │TO LAYER  │TO LAYER  │TO LAYER  │BRIGHT DWN│   │ F10      │ F1       │ F2       │ F3       │          │
-                &trans     &trans     &trans     &trans   &kp C_BRI_DN     &KP F10     &kp F1     &kp F2     &kp F3    &trans
+                &trans     &trans     &trans     &trans   &kp C_BRI_DN     &kp F10     &kp F1     &kp F2     &kp F3    &trans
                 //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                 &trans     &trans        &trans     &trans
                 //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
