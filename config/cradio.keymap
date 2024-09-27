@@ -84,7 +84,7 @@
             bindings = <
                 //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
                 //│ RESET    │          │          │          │          │   │   *      │  7       │  8       │  9       │  /       │
-                &sys_reset  &trans     &trans     &trans    &trans        &kp ASTRK   &kp N7     &kp N8      &kp N9    &kp FLSH
+                &sys_reset  &trans     &trans     &trans    &trans        &kp ASTRK   &kp N7     &kp N8      &kp N9    &kp FSLH
                 //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
                 //│BOOTLOADER│          │  =       │  .       │          │   │   +      │  4       │  5       │  6       │  -       │
                 &bootloader  &trans    &kp EQUAL  &kp DOT    &trans         &kp PLUS   &kp N4     &kp N5      &kp N6    &kp MINUS
@@ -121,7 +121,7 @@
                 &kp TILDE  &kp HASH   &kp PLUS   &kp PRCNT   &kp QMARK        &kp CARET  &kp LBRC   &kp DLLR   &kp RBRC  &kp GRAVE
                 //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
                 //│  \       │  <       │  -       │  >       │  &       │   │  /       │  (       │  =       │  )       │  |       │
-                &kp BSLH   &kp LT    &kp MINUS   &kp GT     &kp AMPS       &kp FLSH  &kp LPAR   &kp EQUAL  &kp RPAR   &kp PIPE
+                &kp BSLH   &kp LT    &kp MINUS   &kp GT     &kp AMPS       &kp FSLH  &kp LPAR   &kp EQUAL  &kp RPAR   &kp PIPE
                 //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
                 //│          │  @       │  *       │  !       │          │   │          │  [       │  _       │  ]       │          │
                 &trans     &kp AT     &kp ASTRK  &kp EXCL     &trans        &trans    &kp LBKT  &kp UNDER   &kp RBKT   &trans
