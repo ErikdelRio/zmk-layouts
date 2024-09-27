@@ -32,7 +32,7 @@
         };
     };
 
-    &lt {
+    lt {
         tapping-term-ms = <TAP_TERM>;
     };
 
