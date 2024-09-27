@@ -32,7 +32,7 @@
         };
         &lt {
             tapping-term-ms = <TAP_TERM>;
-        }
+        };
     };
 
     // conditional_layers {
