@@ -18,8 +18,7 @@
 #
 ---
 include:
-  - board: nice_nano
+  - board: nice_nano@v2
     shield: cradio_left
-  - board: nice_nano
+  - board: nice_nano@v2
     shield: cradio_right
-# Should build nice_nano v2 since update
