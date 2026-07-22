@@ -1,0 +1,7 @@
+&reg0 {
+	status = "disabled";
+};
+
+&reg1 {
+	regulator-initial-mode = <0>;
+};
